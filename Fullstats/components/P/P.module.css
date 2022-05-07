@@ -1,0 +1,19 @@
+.p {
+  font-weight: 400;
+  color: var(--black);
+}
+
+.s {
+  size: 14px;
+  line-height: 24px;
+}
+
+.m {
+  size: 16px;
+  line-height: 24px;
+}
+
+.l {
+  size: 18px;
+  line-height: 29px;
+}
